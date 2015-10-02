@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+miav
+db.sqlite3
+link.txt
+.DS_Store
